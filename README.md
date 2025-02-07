@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/x-in?style=flat-square&logo=x&color=black&link=https%3A%2F%2Fx.com%2FBryanOsora" >
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Osorabrian&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Osorabrian&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 
