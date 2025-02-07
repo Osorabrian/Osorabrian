@@ -12,6 +12,7 @@
 </div>
 
 <p>Hey There </p>
+
 ---
 👨‍💼 I am a full stack developer. Skilled in building web applications using technologies listed below.
 
