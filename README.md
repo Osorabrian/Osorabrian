@@ -12,6 +12,8 @@
 </div>
 
 <p>Hey There </p>
+---
+👨‍💼 I am a full stack developer. Skilled in building web applications using technologies listed below.
 
 ----
 ## 🛠️ Technologies Used:
@@ -30,8 +32,8 @@
 
 ---
 ## 🔥 My Stats:
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Osorabrian&theme=gotham&border_radius=4.4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<div align="center" >
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Osorabrian&theme=gotham&border_radius=4.4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 
