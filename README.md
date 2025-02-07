@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Osorabrian
-- 👀 I’m interested in software, web and  mobile app development.
-- 🌱 I’m currently learning Javascript, Ruby & Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email me at osorabrian@gmail.com
+<div>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJocW5oazU0MHlwOTdzNjFvZ3BlYTNwZWJ4OTNuZng2YmViaG5vdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif" width="100%" >
+</div>
 
 
